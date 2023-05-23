@@ -1,6 +1,6 @@
 @extends('welcome')
 
-@section('page', 'Tambah Data Mahasiswa')
+@section('page', 'Edit Data Mahasiswa')
 
 @section('content')
   <div class="row">
